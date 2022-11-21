@@ -9,7 +9,8 @@ Este proyecto fue creado con:
  - React-Dom
  - React-Icon
 
-### Deployment
+### Demo
+![](https://firebasestorage.googleapis.com/v0/b/coderhouse-ecommerce-proyecto.appspot.com/o/Recording%202022-11-21%20at%2014.24.28.gif?alt=media&token=b5d69a90-09e5-4552-b25d-b85fdc7c8401)
 
 
 
